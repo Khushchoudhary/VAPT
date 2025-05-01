@@ -9,3 +9,8 @@ for all column names
 HYDRA for online file
 
 hydra -V -l istheory -P /usr/share/wordlists/rockyou.txt http-get://is.theorizeit.org/auth/ 
+
+
+corrosion VM walkthrough
+
+https://medium.com/@z6157881/corrosion-2-vulnhub-walkthrough-30c00787fa5d
